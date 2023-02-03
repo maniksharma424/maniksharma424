@@ -2,6 +2,6 @@
 - 🌱 I’m currently learning Frontend Devlopment 
 - 👯 I’m looking to collaborate with open-source projects ❤️ 
 - 💬 Ask me about JavaScript, React.js, TailwindCSS, Headless components, all things tech, yeah
-- 📫 How to reach me: Twitter LinkenIn
+- 📫 How to reach me: [Twitter](https://twitter.com/maniksharma424)
 - ⚡ Fun fact: ...
 -->
